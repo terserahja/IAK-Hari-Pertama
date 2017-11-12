@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hari Pertama IAK</string>
+    <string name="login">login</string>
+    <string name="Email">E-mail</string>
+    <string name="pasword">Password</string>
+    <string name="erroremail">Emai tidak boleh kosong</string>
+    <string name="pasworddkurang">Password tidak boleh kurang dari 6</string>
+</resources>
