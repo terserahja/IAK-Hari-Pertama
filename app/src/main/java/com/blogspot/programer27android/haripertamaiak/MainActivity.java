@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
            @Override
            public void onClick(View v) {
                System.out.print("test");
+               System.out.print("test");
            }
        });
     }
